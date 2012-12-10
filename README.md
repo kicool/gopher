@@ -9,6 +9,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
 - github.com/gorilla/mux
 - github.com/gorilla/sessions
 - labix.org/v2/mgo
+- bzr(required by mgo)
 
 ##Install
 
@@ -33,7 +34,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
         "smtp_host": "smtp.example.com",
         "smtp_addr": "smtp.example.com:25",
         "from_email": "who@example.com",
-	"superusers": "admin,another"
+        "superusers": "admin,another"
     }
 
 先启动MongoDB
