@@ -6,7 +6,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
 
 - Go1.0+
 - MongoDB
-- github.com/gorilla/mux
+- [github.com/gorilla/mux](http://www.gorillatoolkit.org/)
 - github.com/gorilla/sessions
 - labix.org/v2/mgo
 - bzr(required by mgo)
