@@ -5,7 +5,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
 ##Requirements
 
 - Go1.0+
-- MongoDB
+- [MongoDB](http://www.mongodb.org)
 - [github.com/gorilla/mux](http://www.gorillatoolkit.org/)
 - github.com/gorilla/sessions
 - labix.org/v2/mgo
@@ -15,7 +15,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
 
     go get github.com/gorilla/mux
     go get github.com/gorilla/sessions
-    go get labix.org/v2/mgo
+    go get -u labix.org/v2/mgo
     git clone git://github.com/kicool/gopher.git
 	
 修改文件 *config.json.default* 为 *config.json* 作为配置文件
