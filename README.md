@@ -9,6 +9,7 @@ Golang中国([www.golang.tc](http://www.golang.tc))源代码.
 - github.com/gorilla/mux
 - github.com/gorilla/sessions
 - labix.org/v2/mgo
+- bzr(required by mgo)
 
 ##Install
 
