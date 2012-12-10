@@ -5,8 +5,8 @@ package main
 
 import (
 	"./wtforms"
-	"code.google.com/p/gorilla/mux"
-	"code.google.com/p/gorilla/sessions"
+	"github.com/gorilla/mux"
+	"github.com/gorilla/sessions"
 	"crypto/md5"
 	"fmt"
 	"io"

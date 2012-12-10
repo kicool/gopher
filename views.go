@@ -6,7 +6,7 @@ package main
 
 import (
 	"bytes"
-	"code.google.com/p/gorilla/sessions"
+	"github.com/gorilla/sessions"
 	"crypto/md5"
 	"crypto/rand"
 	"fmt"
